@@ -1,0 +1,3 @@
+# Local rendering environment and review artifacts
+.venv/
+.design-work/
